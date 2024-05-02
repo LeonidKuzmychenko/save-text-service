@@ -1,4 +1,4 @@
-package com.example.savetextservice;
+package lk.server.app;
 
 import com.google.common.cache.Cache;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -6,7 +6,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
-import java.util.UUID;
 import java.util.concurrent.ConcurrentMap;
 
 @RestController

@@ -1,4 +1,4 @@
-package com.example.savetextservice;
+package lk.server.app;
 
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;

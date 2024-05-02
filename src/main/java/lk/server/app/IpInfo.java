@@ -1,4 +1,4 @@
-package com.example.savetextservice;
+package lk.server.app;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
